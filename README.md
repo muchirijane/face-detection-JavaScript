@@ -10,3 +10,5 @@ By accessing your webcam it is able to recognise your facial expression to deter
   <li>Neutral</li>
 </ul>
 <a href ="https://www.youtube.com/watch?v=CVClHLwv-4I&t=615s"> View video</a>
+
+PS: Run the code through a live server, if you have visual studio code that's even easier for you to use.😎
