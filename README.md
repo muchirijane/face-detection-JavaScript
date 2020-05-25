@@ -1,5 +1,5 @@
 # face-detection-JavaScript
-This is a project that uses Artificial intelligence and face recognition to determine facial expression or emotions through the your webcam in real time.
+
 This is an awesome project that uses Artificial intelligence and face recognition.
 <br>
 By accessing your webcam it is able to recognise your facial expression to determine your emotions,such as:
@@ -9,3 +9,4 @@ By accessing your webcam it is able to recognise your facial expression to deter
   <li>Angry</li>
   <li>Neutral</li>
 </ul>
+<a href ="https://www.youtube.com/watch?v=CVClHLwv-4I&t=615s"> View video</a>
